@@ -1,4 +1,4 @@
-<img width="1275" height="500" alt="image" src="https://github.com/user-attachments/assets/01a23934-b769-4d97-af38-7dfe1760f252" /># 👨🏻‍💻 Maurício Dos Santos
+Maurício Dos Santos
 
 **`Desenvolvedor FullStack`**
 
