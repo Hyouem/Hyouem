@@ -7,18 +7,18 @@ Sou desenvolvedor, com perfil analítico, disciplinado e orientado à resoluçã
 <p align="left"
         />
     </a> 
-    <a href="[https://github.com/Larissakich?tab=repositories&sort=stargazers](https://github.com/Hyouem)">
+    <a href="https://github.com/Hyouem">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="[https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas](https://github.com/Hyouem)"
+            src="https://github.com/Hyouem"
         />
     </a>
-    <a href="[https://github.com/Larissakich?tab=followers](https://github.com/Hyouem)">
+    <a href="https://github.com/Hyouem">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="[https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white](https://github.com/Hyouem)"
+            src="https://github.com/Hyouem"
         />
     </a>
 </p>
