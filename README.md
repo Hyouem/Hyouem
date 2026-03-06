@@ -5,7 +5,7 @@
 Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução de problemas. Tenho facilidade em estruturar informações, organizar processos e transformar desafios complexos em soluções claras e eficientes. Valorizo consistência, aprendizado contínuo e desenvolvimento de soluções bem estruturadas, sempre com foco em qualidade, organização e melhoria contínua.
 
 <p align="left"
-  <a href="https://www.linkedin.com/in/maurício-dos-santos-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[https://www.linkedin.com/in/maurício-dos-santos-/](https://www.linkedin.com/in/maur%C3%ADcio-dos-santos-/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mauricio72613@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Hyouem"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
