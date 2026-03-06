@@ -155,3 +155,4 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 [<img src="https://assets.dio.me/8RcUe3w3vTHDVfWFik75MdHPa7ZXBqx_umEgmjw4lM8/f:webp/h:120/q:80/L3RyYWNrcy83ZjhjNWVmOS0xNmRiLTQyYTMtYjVkNS0xMTE0YjU5MWY0MmYucG5n" height="50"/>](https://hermes.dio.me/certificates/90A06O4Z.pdf)
 [<img src="https://hermes.dio.me/tracks/b59fc09f-4d67-4fcd-b4ec-3aeb7b11a654.png" height="50"/>](https://hermes.dio.me/certificates/9RDEDCSF.pdf)
 [<img src="https://assets.dio.me/_KS-rLlHKM_OQty1m4BWL8EzbH584h7dxCADrkTqtDE/f:webp/h:120/q:80/L3RyYWNrcy9mNTcyZDdhNi00NGZkLTRhYmQtYjc1Ny04OTFhYmE3OTM0NTEucG5n" height="50"/>](https://hermes.dio.me/certificates/F844SVGM.pdf)
+[<img src="https://assets.dio.me/fuNAa2Q2yIHrRpXvnQE86Fbny4g5Y4uqukhX-39CwVY/f:webp/h:120/q:80/L3RyYWNrcy85YzNkZmQzYi1hODMyLTRiYWMtOTM4MC1lNWI3ZGUyYmUxNDAucG5n" height="50"/>](https://hermes.dio.me/certificates/GOP4TQR9.pdf)
