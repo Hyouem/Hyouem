@@ -191,5 +191,3 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 [<img src="https://assets.dio.me/BSGRQ3w0Bb_kiQZDDG_l888JhIP6uLuojz5Y8jKNzDA/f:webp/h:120/q:80/L3RyYWNrcy9iYzU1YzE4ZC00ZTA2LTQ1ZWItYjFlNS03OWUzMDhhOWI3YmQucG5n" height="50"/>](https://hermes.dio.me/certificates/JGQSECGZ.pdf)
 [<img src="https://assets.dio.me/6OLTuYrQBpJsmGHnq7HVhnsBd4vrgOWL-oZ_7x3P4Wo/f:webp/h:120/q:80/L3RyYWNrcy9mNDg5YmY2YS04N2QxLTRhNDItOTNkMi0zY2Q4ZjVhOTVlMTMucG5n" height="50"/>](https://hermes.dio.me/certificates/OM6MY2ND.pdf)
 [<img src="https://assets.dio.me/NwaP7nhyvMggm3g0udzMtAz0ack6ZPNYaqxemRbaILM/f:webp/h:120/q:80/L3RyYWNrcy82MzE2YzRiZS1kMzM1LTQxNDAtOWY3OS0yMjQzYjNkN2RlNzMucG5n" height="50"/>](https://hermes.dio.me/certificates/POYC40KD.pdf)
-[<img src="https://assets.dio.me/NwaP7nhyvMggm3g0udzMtAz0ack6ZPNYaqxemRbaILM/f:webp/h:120/q:80/L3RyYWNrcy82MzE2YzRiZS1kMzM1LTQxNDAtOWY3OS0yMjQzYjNkN2RlNzM" 
-height="50"/>](https://hermes.dio.me/certificates/3APFMC1Y.pdf)
