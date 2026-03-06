@@ -1,4 +1,4 @@
-Maurício Dos Santos
+# 👨🏻‍💻 Maurício Dos Santos
 
 **`Desenvolvedor FullStack`**
 
