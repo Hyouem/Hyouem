@@ -1,8 +1,8 @@
-# 👨🏻‍💻 Maurício Dos Santos
+<img width="1275" height="500" alt="image" src="https://github.com/user-attachments/assets/01a23934-b769-4d97-af38-7dfe1760f252" /># 👨🏻‍💻 Maurício Dos Santos
 
 **`Desenvolvedor FullStack`**
 
-Sou desenvolvedor, com perfil analítico, disciplinado e orientado à resolução de problemas. Tenho facilidade em estruturar informações, organizar processos e transformar desafios complexos em soluções claras e eficientes. Ao longo da minha trajetória profissional desenvolvi forte senso de responsabilidade, atenção a detalhes e pensamento lógico, características que aplico diretamente no desenvolvimento de soluções tecnológicas. Valorizo consistência, aprendizado contínuo e evolução profissional, buscando constantemente aprofundar conhecimentos, desenvolver projetos e aprimorar minha capacidade de análise e construção de soluções bem estruturadas, sempre com foco em qualidade, organização e melhoria contínua.
+Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução de problemas. Tenho facilidade em estruturar informações, organizar processos e transformar desafios complexos em soluções claras e eficientes. Valorizo consistência, aprendizado contínuo e desenvolvimento de soluções bem estruturadas, sempre com foco em qualidade, organização e melhoria contínua.
 
 <p align="left"
       />
