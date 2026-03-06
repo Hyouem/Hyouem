@@ -5,24 +5,21 @@
 Sou desenvolvedor, com perfil analítico, disciplinado e orientado à resolução de problemas. Tenho facilidade em estruturar informações, organizar processos e transformar desafios complexos em soluções claras e eficientes. Ao longo da minha trajetória profissional desenvolvi forte senso de responsabilidade, atenção a detalhes e pensamento lógico, características que aplico diretamente no desenvolvimento de soluções tecnológicas. Valorizo consistência, aprendizado contínuo e evolução profissional, buscando constantemente aprofundar conhecimentos, desenvolver projetos e aprimorar minha capacidade de análise e construção de soluções bem estruturadas, sempre com foco em qualidade, organização e melhoria contínua.
 
 <p align="left"
-        />
+      />
     </a> 
-    <a href="https://github.com/Hyouem">
+    <a href="https://github.com/Hyouem?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://github.com/Hyouem"
+            src="https://custom-icon-badges.demolab.com/github/stars/Hyouem?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Hyouem">
+    <a href="https://github.com/Hyouem?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://github.com/Hyouem"
-        />
-    </a>
-</p>
-
+            src="https://custom-icon-badges.demolab.com/github/followers/Hyouem?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+                
 ---
 
 ### 🤖 Linguagens e Tecnologias
