@@ -151,7 +151,6 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 
 ## 🎓 Bootcamps / Cursos / Formações
 
-[<img src="https://assets.dio.me/6kkzJSWcBhgkDWVOFyJ3rtGrK6OHSdwc1MuLCJAxQRM/f:webp/h:120/q:80/L3RyYWNrcy85N2M0N2FkYy1jZDljLTQwNDgtOWZlZC1hNTY5YmUxNTE5YTMucG5n" height="50"/>](https://hermes.dio.me/certificates/2N2VULK1.pdf)
 [<img src="https://assets.dio.me/8RcUe3w3vTHDVfWFik75MdHPa7ZXBqx_umEgmjw4lM8/f:webp/h:120/q:80/L3RyYWNrcy83ZjhjNWVmOS0xNmRiLTQyYTMtYjVkNS0xMTE0YjU5MWY0MmYucG5n" height="50"/>](https://hermes.dio.me/certificates/90A06O4Z.pdf)
 [<img src="https://hermes.dio.me/tracks/b59fc09f-4d67-4fcd-b4ec-3aeb7b11a654.png" height="50"/>](https://hermes.dio.me/certificates/9RDEDCSF.pdf)
 [<img src="https://assets.dio.me/_KS-rLlHKM_OQty1m4BWL8EzbH584h7dxCADrkTqtDE/f:webp/h:120/q:80/L3RyYWNrcy9mNTcyZDdhNi00NGZkLTRhYmQtYjc1Ny04OTFhYmE3OTM0NTEucG5n" height="50"/>](https://hermes.dio.me/certificates/F844SVGM.pdf)
@@ -184,3 +183,10 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 [<img src="https://assets.dio.me/ri_NMqo6vH93pSC22ONBF3xtY0QUgBvOdjQF4h_0Vkc/f:webp/h:120/q:80/L3RyYWNrcy8wNzUzNTM3Ny00MWIxLTQ1YzUtYTgwZi00MmFjZjdmMTNmNTYucG5n" height="50"/>](https://hermes.dio.me/certificates/X4DSV7RY.pdf)
 [<img src="https://assets.dio.me/sDPcJPR3Ajrj21tfosd5qVMRnHKDlMqpinBbUWRMAHA/f:webp/h:120/q:80/L3RyYWNrcy9lNmVmNDYwMi1mNGUyLTRiYzctOWMwZS0yY2YzMDRiYTNmYzcucG5n" height="50"/>](https://hermes.dio.me/certificates/P1LFWE34.pdf)
 [<img src="https://assets.dio.me/3jJz8tbTBy1I5GugkvmkOtyLDgGCmo3fe4-slvgFGIk/f:webp/h:120/q:80/L3RyYWNrcy9kNTEwODAzMi0xMzViLTQ4Y2QtYjVlYy05ZDU2YjEwYzM2YjAucG5n" height="50"/>](https://hermes.dio.me/certificates/CKJUFGZ0.pdf)
+[<img src="https://assets.dio.me/cZNfCLCDOAZCEHNI_TPTvpcN-cali0g-L-Bnux8wYuE/f:webp/h:120/q:80/L3RyYWNrcy9mNzQ1MWJkNy04YTAzLTQ2NjMtYWY0MC1kMTcxNzA2N2UzYmQucG5n" height="50"/>](https://hermes.dio.me/certificates/NHPDLIL4.pdf)
+[<img src="https://assets.dio.me/Xl98YWbvhhAF2MJhHva1jjFf-NNKiYP86uVUHeJpj6U/f:webp/h:120/q:80/L3RyYWNrcy84MmI1NWE0OC1kOTlmLTRjZDItYjJhMC1hNjc0N2JkYjM5YzUucG5n" height="50"/>](https://hermes.dio.me/certificates/6OAXCRFU.pdf)
+[<img src="https://assets.dio.me/6kkzJSWcBhgkDWVOFyJ3rtGrK6OHSdwc1MuLCJAxQRM/f:webp/h:120/q:80/L3RyYWNrcy85N2M0N2FkYy1jZDljLTQwNDgtOWZlZC1hNTY5YmUxNTE5YTMucG5n" height="50"/>](https://hermes.dio.me/certificates/2N2VULK1.pdf)
+[<img src="https://assets.dio.me/vnzGSzh0uOOz6LLL2qKYLyomM0Tiqf0FgqJsF84zEN4/f:webp/h:120/q:80/L3RyYWNrcy84OThlZjJjNi1kZDg3LTRiNjktYjBjNC04MGUzNjU4ZTU5ZWQucG5n" height="50"/>](https://hermes.dio.me/certificates/VDHDUBLI.pdf)
+[<img src="https://assets.dio.me/pBHaFl1IUpdnfiqOUNfzwoeh2Sldpbmf_19f5pW2vr8/f:webp/h:120/q:80/L3RyYWNrcy9hMWYyNzk1ZC04MjU5LTQyNWItODIzMi1jZDlhNTY4MmY1MTEucG5n" height="50"/>](https://hermes.dio.me/certificates/L5BG1R32.pdf)
+[<img src="https://assets.dio.me/BSGRQ3w0Bb_kiQZDDG_l888JhIP6uLuojz5Y8jKNzDA/f:webp/h:120/q:80/L3RyYWNrcy9iYzU1YzE4ZC00ZTA2LTQ1ZWItYjFlNS03OWUzMDhhOWI3YmQucG5n" height="50"/>](https://hermes.dio.me/certificates/JGQSECGZ.pdf)
+[<img src="https://assets.dio.me/6OLTuYrQBpJsmGHnq7HVhnsBd4vrgOWL-oZ_7x3P4Wo/f:webp/h:120/q:80/L3RyYWNrcy9mNDg5YmY2YS04N2QxLTRhNDItOTNkMi0zY2Q4ZjVhOTVlMTMucG5n" height="50"/>](https://hermes.dio.me/certificates/OM6MY2ND.pdf)
