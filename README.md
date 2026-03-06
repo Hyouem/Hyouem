@@ -190,8 +190,4 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 [<img src="https://assets.dio.me/pBHaFl1IUpdnfiqOUNfzwoeh2Sldpbmf_19f5pW2vr8/f:webp/h:120/q:80/L3RyYWNrcy9hMWYyNzk1ZC04MjU5LTQyNWItODIzMi1jZDlhNTY4MmY1MTEucG5n" height="50"/>](https://hermes.dio.me/certificates/L5BG1R32.pdf)
 [<img src="https://assets.dio.me/BSGRQ3w0Bb_kiQZDDG_l888JhIP6uLuojz5Y8jKNzDA/f:webp/h:120/q:80/L3RyYWNrcy9iYzU1YzE4ZC00ZTA2LTQ1ZWItYjFlNS03OWUzMDhhOWI3YmQucG5n" height="50"/>](https://hermes.dio.me/certificates/JGQSECGZ.pdf)
 [<img src="https://assets.dio.me/6OLTuYrQBpJsmGHnq7HVhnsBd4vrgOWL-oZ_7x3P4Wo/f:webp/h:120/q:80/L3RyYWNrcy9mNDg5YmY2YS04N2QxLTRhNDItOTNkMi0zY2Q4ZjVhOTVlMTMucG5n" height="50"/>](https://hermes.dio.me/certificates/OM6MY2ND.pdf)
-[<img src="https://assets.dio.me/NwaP7nhyvMggm3g0udzMtAz0ack6ZPNYaqxemRbaILM/f:webp/h:120/q:80/L3RyYWNrcy82MzE2YzRiZS1kMzM1LTQxNDAtOWY3OS0yMjQzYjNkN2RlNzM.ucG5n" height="50"/>](https://hermes.dio.me/certificates/POYC40KD.pdf)
-[<img src="https://assets.dio.me/wS5Rcl6qT7Qzb96jcpKbtaxvk3K1QmbDPEFOrM4Fzps/f:webp/h:120/q:80/L3RyYWNrcy9kMjFiZDczNy1lZTRhLTRhODctODkxYS0zNTgxNzQ1MDk0NmE.ucG5n" height="50"/>](https://hermes.dio.me/certificates/87EFMO4O.pdf)
-[<img src="https://assets.dio.me/i0GjD0jwH7BGvLc18GfBugOllx6SnbyTr-CuTVbTyXA/f:webp/h:120/q:80/L3RyYWNrcy84Zjk0OGZhOC1jYzQ2LTRkZmUtOTk5Ni02NzZlMzljNTdmYzQ.ucG5n" height="50"/>](https://hermes.dio.me/certificates/XZRKGILM.pdf)
-[<img src="https://assets.dio.me/x7b_MuhmYIJNrfaC4ylPlonl2iva9KtnP2Y07e3yFrE/f:webp/h:120/q:80/L3RyYWNrcy83NTUyMmVmNi00Y2RjLTQzNjktYWUwYy0zMGNmNjhjZDM3ZDc.ucG5n" height="50"/>](https://hermes.dio.me/certificates/QNDEFYY8.pdf)
-
+[<img src="https://assets.dio.me/NwaP7nhyvMggm3g0udzMtAz0ack6ZPNYaqxemRbaILM/f:webp/h:120/q:80/L3RyYWNrcy82MzE2YzRiZS1kMzM1LTQxNDAtOWY3OS0yMjQzYjNkN2RlNzMucG5n" height="50"/>](https://hermes.dio.me/certificates/POYC40KD.pdf)
