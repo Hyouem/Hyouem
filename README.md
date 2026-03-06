@@ -22,7 +22,7 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
                 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
