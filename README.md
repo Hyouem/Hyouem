@@ -149,7 +149,7 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 <br/>
 
 
-**Bootcamps/Cursos/Formações:**
+## 🎓 Bootcamps / Cursos / Formações
 
 [<img src="https://assets.dio.me/6kkzJSWcBhgkDWVOFyJ3rtGrK6OHSdwc1MuLCJAxQRM/f:webp/h:120/q:80/L3RyYWNrcy85N2M0N2FkYy1jZDljLTQwNDgtOWZlZC1hNTY5YmUxNTE5YTMucG5n" height="50"/>](https://hermes.dio.me/certificates/2N2VULK1.pdf)
 [<img src="https://assets.dio.me/8RcUe3w3vTHDVfWFik75MdHPa7ZXBqx_umEgmjw4lM8/f:webp/h:120/q:80/L3RyYWNrcy83ZjhjNWVmOS0xNmRiLTQyYTMtYjVkNS0xMTE0YjU5MWY0MmYucG5n" height="50"/>](https://hermes.dio.me/certificates/90A06O4Z.pdf)
