@@ -4,13 +4,10 @@
 
 Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução de problemas. Tenho facilidade em estruturar informações, organizar processos e transformar desafios complexos em soluções claras e eficientes. Valorizo consistência, aprendizado contínuo e desenvolvimento de soluções bem estruturadas, sempre com foco em qualidade, organização e melhoria contínua.
 
-<p align="left">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurício-dos-santos-/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricio72613@gmail.com)
+<[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurício-dos-santos-/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hyouem)
 
-</p>
+📧 [Enviar e-mail](mailto:mauricio72613@gmail.com)
 
 ## 🤖 Linguagens e Tecnologias
 
