@@ -1,36 +1,24 @@
-# 👩🏻‍💻 Maurício Dos Santos
+# 👨🏻‍💻 Maurício Dos Santos
 
 **`Desenvolvedor FullStack`**
 
 Sou desenvolvedor, com perfil analítico, disciplinado e orientado à resolução de problemas. Tenho facilidade em estruturar informações, organizar processos e transformar desafios complexos em soluções claras e eficientes. Ao longo da minha trajetória profissional desenvolvi forte senso de responsabilidade, atenção a detalhes e pensamento lógico, características que aplico diretamente no desenvolvimento de soluções tecnológicas. Valorizo consistência, aprendizado contínuo e evolução profissional, buscando constantemente aprofundar conhecimentos, desenvolver projetos e aprimorar minha capacidade de análise e construção de soluções bem estruturadas, sempre com foco em qualidade, organização e melhoria contínua.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+<p align="left"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="[https://github.com/Larissakich?tab=repositories&sort=stargazers](https://github.com/Hyouem)">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="[https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas](https://github.com/Hyouem)"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="[https://github.com/Larissakich?tab=followers](https://github.com/Hyouem)">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="[https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white](https://github.com/Hyouem)"
         />
     </a>
 </p>
