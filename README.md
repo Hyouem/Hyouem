@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Maurício Dos Santos
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou desenvolvedor, com perfil analítico, disciplinado e orientado à resolução de problemas. Tenho facilidade em estruturar informações, organizar processos e transformar desafios complexos em soluções claras e eficientes. Ao longo da minha trajetória profissional desenvolvi forte senso de responsabilidade, atenção a detalhes e pensamento lógico, características que aplico diretamente no desenvolvimento de soluções tecnológicas. Valorizo consistência, aprendizado contínuo e evolução profissional, buscando constantemente aprofundar conhecimentos, desenvolver projetos e aprimorar minha capacidade de análise e construção de soluções bem estruturadas, sempre com foco em qualidade, organização e melhoria contínua.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
