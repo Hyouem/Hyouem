@@ -354,11 +354,109 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 
 <img 
     align="left" 
+    alt="OpenAI API"
+    title="OpenAI API / Azure OpenAI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/openai/icon.svg"
+/>
+<img 
+    align="left" 
+    alt="MLflow"
+    title="MLflow" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://assets.streamlinehq.com/image/private/w_30,h_30,ar_1/f_auto/v1/icons/logos/mlflow-bqet15yz5pb6mw888yu69g.png/mlflow-d3ix9o1dr7bhztcxvtjz9a.png"
+/>
+<img 
+    align="left" 
+    alt="Google Gemini"
+    title="Google Gemini" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/gemini/icon.svg"
+/>
+<img 
+    align="left" 
+    alt="DeepSeek"
+    title="DeepSeek" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://logo-teka.com/wp-content/uploads/2025/07/deepseek-sign-logo.svg"
+/>
+
+<br><br>
+
+## 🧪 Testes e Qualidade
+
+<img 
+    align="left" 
     alt="Jest"
     title="Jest (TDD)" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Cucumber"
+    title="Cucumber (BDD)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Postman"
+    title="Postman (Testes de API)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Cypress"
+    title="Cypress" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Selenium"
+    title="Selenium" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
+/>
+<img 
+    align="left" 
+    alt="JUnit"
+    title="JUnit" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Mockito"
+    title="Mockito" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png"
+/>
+
+<br><br>
+
+## 🔧 DevOps e Infraestrutura
+
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
 
 <br><br>
