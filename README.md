@@ -65,14 +65,6 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 />
 <img 
     align="left" 
-    alt="AWS"
-    title="AWS (Amazon Web Services)" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
-<img 
-    align="left" 
     alt="Azure SQL Database"
     title="Azure SQL Database" 
     width="30px" 
@@ -264,6 +256,26 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 <br><br>
 
 ## ☁️ Cloud e Plataformas
+
+<img 
+    align="left" 
+    alt="Azure"
+    title="Microsoft Azure" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+/>
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS (Amazon Web Services)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+/>
+
+    
+
     
 <br><br>
 
