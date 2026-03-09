@@ -55,7 +55,78 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
 />
-
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS (Amazon Web Services)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Azure SQL Database"
+    title="Azure SQL Database" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQL Server"
+    title="Microsoft SQL Server" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQLAlchemy"
+    title="SQLAlchemy" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQL Developer"
+    title="Oracle SQL Developer" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQLite"
+    title="SQLite" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+/>
     
 <br/>
 
