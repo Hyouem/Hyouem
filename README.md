@@ -127,6 +127,23 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
 />
+<img 
+    align="left" 
+    alt="Neo4j"
+    title="Neo4j Graph Database" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="R"
+    title="R" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
+/>
+
     
 <br/>
 
