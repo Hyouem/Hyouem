@@ -144,7 +144,7 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
 />
 
-</p>
+<br><br>
 
 ## ⚙️ Frameworks e Bibliotecas
 
@@ -165,8 +165,7 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
     
-</p>
-
+<br><br>
 
 ## 🎓 Bootcamps / Cursos / Formações
 
