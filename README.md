@@ -144,6 +144,7 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
 />
 
+
 ## ⚙️ Frameworks e Bibliotecas
 
 <img 
