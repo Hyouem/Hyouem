@@ -73,22 +73,6 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 />
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SQL Server"
-    title="Microsoft SQL Server" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-/>
-<img 
-    align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
@@ -273,10 +257,56 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
 />
+<img 
+    align="left" 
+    alt="Google Cloud Run"
+    title="Google Cloud Run" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudrun/cloudrun-original.svg"
+/>
 
-    
+## 🗄️ Bancos de Dados
 
-    
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQL Server"
+    title="Microsoft SQL Server" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
+<img 
+    align="left" 
+    alt="MongoDB"
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Azure Cosmos DB"
+    title="Azure Cosmos DB" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original.svg"
+/>
+        
+<br><br>
+
+## 📊 Dados, BI e Analytics
+
+
+
 <br><br>
 
 ## 🎓 Bootcamps / Cursos / Formações
