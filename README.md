@@ -65,6 +65,14 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 />
 <img 
     align="left" 
+    alt="HTML5"
+    title="HTML5" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
+/>
+<img 
+    align="left" 
     alt="Azure SQL Database"
     title="Azure SQL Database" 
     width="30px" 
@@ -465,6 +473,120 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Terraform"
+    title="Terraform" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Jenkins"
+    title="Jenkins" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-plain.svg"
+/>
+
+<br><br>
+
+## Ferramentas e Versionamento
+
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+<img 
+    align="left" 
+    alt="GitLab"
+    title="GitLab" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Maven"
+    title="Maven" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Gradle"
+    title="Gradle" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"
+/>
+<img 
+    align="left" 
+    alt="NPM"
+    title="NPM" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
+/>
+
+<br><br>
+
+## Sistemas e Infra
+
+<img 
+    align="left" 
+    alt="Linux"
+    title="Linux" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="Windows"
+    title="Windows 11" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Redes TCP/IP"
+    title="Redes TCP/IP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://static.thenounproject.com/png/4955570-200.png"
+/>
+<img 
+    align="left" 
+    alt="Segurança da Informação"
+    title="Segurança da Informação" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png"
+/>
+<img 
+    align="left" 
+    alt="Pentest"
+    title="Pentest" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/2850/2850321.png"
 />
 
 <br><br>
