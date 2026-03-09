@@ -12,7 +12,7 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 
 </p>
 
-## 🤖 Linguagens de Programação
+## 📜 Linguagens de Programação
 
 <img
  align="left"
@@ -307,7 +307,59 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 
 ## 📊 Dados, BI e Analytics
 
+<img 
+    align="left" 
+    alt="Power BI"
+    title="Power BI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+/>
+<img 
+    align="left" 
+    alt="Excel"
+    title="Microsoft Excel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
+/>
+<img 
+    align="left" 
+    alt="ETL"
+    title="ETL (Extract, Transform, Load)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Data Modeling"
+    title="Data Modeling" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"
+/>
+<img 
+    align="left" 
+    alt="PyTorch"
+    title="PyTorch (Deep Learning)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
+/>
 
+<br><br>
+
+## 🤖 Inteligência Artificial e GenAI
+
+<img 
+    align="left" 
+    alt="Jest"
+    title="Jest (TDD)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
+/>
 
 <br><br>
 
