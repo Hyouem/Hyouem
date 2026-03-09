@@ -12,7 +12,7 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 
 </p>
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens de Programação
 
 <img
  align="left"
@@ -142,6 +142,17 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
+/>
+
+## ⚙️ Frameworks e Bibliotecas
+
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring Framework" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 
     
