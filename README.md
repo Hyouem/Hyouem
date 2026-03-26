@@ -650,6 +650,3 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 
 ## 🎮 Snake Game
 <img src="https://raw.githubusercontent.com/dev-juan-ibanez/dev-juan-ibanez/output/snake.svg" alt="Snake game animation"/>
-
-## 📈 Contribution Graph
-<img src="https://ghchart.rshah.org/228B22/Hyouem" alt="Hyouem's GitHub contributions chart" style="border-radius: 10px;"/>
