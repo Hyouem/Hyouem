@@ -647,3 +647,18 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 [<img src="https://assets.dio.me/CG1YY_kSMMEy2YJy6ZGB2WV3lLrDmwdUK9vDeT_nCrI/f:webp/h:120/q:80/L3RyYWNrcy85MTYyODY3Ny1jODAxLTQ5ZmItOTA2MS0wMjI3MjJhNmFmZDAucG5n" height="50"/>](https://hermes.dio.me/certificates/FTO0JMKH.pdf)
 [<img src="https://assets.dio.me/XH3JbkyumWIdOs9Tk0f1WxIcR7fdgrT5qOJVjvm4sM0/f:webp/h:120/q:80/L3RyYWNrcy85MjJmMTJmNC0yZjhkLTRlYWMtYTRiZC05YTM5NmJkNDhjYzkucG5n" height="50"/>](https://hermes.dio.me/certificates/TRZR5RFH.pdf)
 [<img src="https://assets.dio.me/qYKg6mmuI2Yl5N_woBql7jJPTVogQMmJsG_SAgS2QKQ/f:webp/h:120/q:80/L3RyYWNrcy80MTQ3OTQyMi00ODk3LTRjNWUtYmJiNy1kMDE0OTk3YjIyNjQucG5n" height="50"/>](https://hermes.dio.me/certificates/PF4X9LKA.pdf)
+
+## 🎮 Snake Game
+<img src="https://raw.githubusercontent.com/dev-juan-ibanez/dev-juan-ibanez/output/snake.svg" alt="Snake game animation"/>
+
+## 📊 GitHub Analytics
+<a href="https://github.com/Hyouem">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyouem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+</a>
+
+<a href="https://github.com/Hyouem">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyouem&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+</a>
+
+## 📈 Contribution Graph
+<img src="https://ghchart.rshah.org/228B22/Hyouem" alt="Hyouem's GitHub contributions chart" style="border-radius: 10px;"/>
