@@ -647,6 +647,7 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 [<img src="https://assets.dio.me/CG1YY_kSMMEy2YJy6ZGB2WV3lLrDmwdUK9vDeT_nCrI/f:webp/h:120/q:80/L3RyYWNrcy85MTYyODY3Ny1jODAxLTQ5ZmItOTA2MS0wMjI3MjJhNmFmZDAucG5n" height="50"/>](https://hermes.dio.me/certificates/FTO0JMKH.pdf)
 [<img src="https://assets.dio.me/XH3JbkyumWIdOs9Tk0f1WxIcR7fdgrT5qOJVjvm4sM0/f:webp/h:120/q:80/L3RyYWNrcy85MjJmMTJmNC0yZjhkLTRlYWMtYTRiZC05YTM5NmJkNDhjYzkucG5n" height="50"/>](https://hermes.dio.me/certificates/TRZR5RFH.pdf)
 [<img src="https://assets.dio.me/qYKg6mmuI2Yl5N_woBql7jJPTVogQMmJsG_SAgS2QKQ/f:webp/h:120/q:80/L3RyYWNrcy80MTQ3OTQyMi00ODk3LTRjNWUtYmJiNy1kMDE0OTk3YjIyNjQucG5n" height="50"/>](https://hermes.dio.me/certificates/PF4X9LKA.pdf)
+[<img src="https://assets.dio.me/W41nwdXwRyOukz1841VUPaEdoiPn5f1-iKmKR4eUxUs/f:webp/h:120/q:80/L3RyYWNrcy8yNTBhNGVmMy05OGI3LTQyMWYtYjBhZi0wZDRhYTU3YWI2ZDgucG5n" height="50"/>](https://hermes.dio.me/certificates/C2THKNFO.pdf)
 
 ## 🎮 Snake Game
 <img src="https://raw.githubusercontent.com/dev-juan-ibanez/dev-juan-ibanez/output/snake.svg" alt="Snake game animation"/>
