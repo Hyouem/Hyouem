@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Maurício Dos Santos
 
-**`Desenvolvedor **
+**`Desenvolvedor'**
 
 Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução de problemas. Tenho facilidade em estruturar informações, organizar processos e transformar desafios complexos em soluções claras e eficientes. Valorizo consistência, aprendizado contínuo e desenvolvimento de soluções bem estruturadas, sempre com foco em qualidade, organização e melhoria contínua.
 
