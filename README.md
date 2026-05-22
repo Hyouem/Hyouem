@@ -10,6 +10,10 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricio72613@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hyouem)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyouem&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyouem&layout=compact&theme=radical)
+
 </p>
 
 ## **`Linguagens de Programação`**
