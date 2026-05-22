@@ -10,9 +10,13 @@ Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricio72613@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hyouem)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyouem&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyouem&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyouem&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyouem&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"/>
+
+</div>
 
 </p>
 
