@@ -2,7 +2,11 @@
 
 # **`Desenvolvedor`**
 
-Sou desenvolvedor com perfil analítico, disciplinado e orientado à resolução de problemas. Tenho facilidade em estruturar informações, organizar processos e transformar desafios complexos em soluções claras e eficientes. Valorizo consistência, aprendizado contínuo e desenvolvimento de soluções bem estruturadas, sempre com foco em qualidade, organização e melhoria contínua.
+Desenvolvedor de software com perfil analítico e forte orientação à resolução de problemas. Atuo com foco na construção de soluções eficientes, escaláveis e alinhadas às necessidades do negócio, priorizando qualidade, organização e boas práticas de desenvolvimento.
+ 
+Possuo facilidade para compreender requisitos, estruturar processos e transformar demandas complexas em soluções tecnológicas consistentes e sustentáveis. Valorizo código limpo, arquitetura bem definida e a busca contínua por aprimoramento técnico, sempre com atenção à performance, manutenibilidade e confiabilidade das aplicações.
+ 
+Comprometido com a excelência na entrega de resultados, acredito na tecnologia como ferramenta estratégica para otimização de processos, geração de valor e inovação.
 
 <p align="left">
 
