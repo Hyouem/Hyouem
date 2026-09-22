@@ -1,3 +1,5 @@
+<img width="1400" height="350" alt="1779200196817" src="https://github.com/user-attachments/assets/d69a9891-aff4-4689-b4c0-73595f2451ef" />
+
 # 👨🏻‍💻 Maurício Dos Santos
 
 # **`Desenvolvedor`**
