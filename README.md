@@ -1,5 +1,7 @@
 <img width="2172" height="724" alt="ChatGPT Image 22 de set  de 2026, 09_01_35" src="https://github.com/user-attachments/assets/869ec558-f02b-4785-855a-3ae242effe72" />
 
+## **`Sobre mim`**
+
 Desenvolvedor de software com perfil analítico e forte orientação à resolução de problemas. Atuo com foco na construção de soluções eficientes, escaláveis e alinhadas às necessidades do negócio, priorizando qualidade, organização e boas práticas de desenvolvimento.
  
 Possuo facilidade para compreender requisitos, estruturar processos e transformar demandas complexas em soluções tecnológicas consistentes e sustentáveis. Valorizo código limpo, arquitetura bem definida e a busca contínua por aprimoramento técnico, sempre com atenção à performance, manutenibilidade e confiabilidade das aplicações.
