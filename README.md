@@ -8,7 +8,7 @@ Possuo facilidade para compreender requisitos, estruturar processos e transforma
  
 Comprometido com a excelência na entrega de resultados, acredito na tecnologia como ferramenta estratégica para otimização de processos, geração de valor e inovação.
 
-<p align="left">
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-dos-santos-/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricio72613@gmail.com)
