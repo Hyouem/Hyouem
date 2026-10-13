@@ -1,14 +1,14 @@
+<div align="center">
+
 <img width="2172" height="724" alt="ChatGPT Image 22 de set  de 2026, 09_01_35" src="https://github.com/user-attachments/assets/869ec558-f02b-4785-855a-3ae242effe72" />
 
 ## **`Sobre mim`**
 
 Desenvolvedor de software com perfil analítico e forte orientação à resolução de problemas. Atuo com foco na construção de soluções eficientes, escaláveis e alinhadas às necessidades do negócio, priorizando qualidade, organização e boas práticas de desenvolvimento.
- 
-Possuo facilidade para compreender requisitos, estruturar processos e transformar demandas complexas em soluções tecnológicas consistentes e sustentáveis. Valorizo código limpo, arquitetura bem definida e a busca contínua por aprimoramento técnico, sempre com atenção à performance, manutenibilidade e confiabilidade das aplicações.
- 
-Comprometido com a excelência na entrega de resultados, acredito na tecnologia como ferramenta estratégica para otimização de processos, geração de valor e inovação.
 
-<p align="center">
+Possuo facilidade para compreender requisitos, estruturar processos e transformar demandas complexas em soluções tecnológicas consistentes e sustentáveis. Valorizo código limpo, arquitetura bem definida e a busca contínua por aprimoramento técnico, sempre com atenção à performance, manutenibilidade e confiabilidade das aplicações.
+
+Comprometido com a excelência na entrega de resultados, acredito na tecnologia como ferramenta estratégica para otimização de processos, geração de valor e inovação.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-dos-santos-/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauricio72613@gmail.com)
@@ -24,588 +24,118 @@ Comprometido com a excelência na entrega de resultados, acredito na tecnologia 
 
 ## **`Linguagens de Programação`**
 
-<img
- align="left"
- alt="Java"
- title="Java"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JSON"
-    title="JSON" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Azure SQL Database"
-    title="Azure SQL Database" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SQLAlchemy"
-    title="SQLAlchemy" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SQL Developer"
-    title="Oracle SQL Developer" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SQLite"
-    title="SQLite" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Neo4j"
-    title="Neo4j Graph Database" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="R"
-    title="R" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
-/>
+<img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+<img alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img alt="JSON" title="JSON" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"/>
+<img alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+<img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
+<img alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img alt="Azure SQL Database" title="Azure SQL Database" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+<img alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img alt="SQLAlchemy" title="SQLAlchemy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"/>
+<img alt="SQL Developer" title="Oracle SQL Developer" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
+<img alt="SQLite" title="SQLite" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+<img alt="Neo4j" title="Neo4j Graph Database" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg"/>
+<img alt="R" title="R" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 
 <br><br>
 
 ## **`Frameworks e Bibliotecas`**
 
-<img 
-    align="left" 
-    alt="Spring"
-    title="Spring Framework" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Django"
-    title="Django" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Flask"
-    title="Flask" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
-/>
-<img 
-    align="left" 
-    alt="FastAPI"
-    title="FastAPI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Express"
-    title="Express.js" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Fastify"
-    title="Fastify" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Entity Framework Core"
-    title="Entity Framework Core" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Pandas"
-    title="Pandas" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Scikit-Learn"
-    title="Scikit-Learn" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
-/>
-<img 
-    align="left" 
-    alt="TensorFlow"
-    title="TensorFlow" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Keras"
-    title="Keras" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"
-/>
-<img 
-    align="left" 
-    alt="OpenCV"
-    title="OpenCV" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"
-/>
+<img alt="Spring" title="Spring Framework" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+<img alt="Django" title="Django" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+<img alt="Flask" title="Flask" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+<img alt="FastAPI" title="FastAPI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
+<img alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+<img alt="Express" title="Express.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
+<img alt="Fastify" title="Fastify" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg"/>
+<img alt="Entity Framework Core" title="Entity Framework Core" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg"/>
+<img alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/>
+<img alt="Scikit-Learn" title="Scikit-Learn" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+<img alt="TensorFlow" title="TensorFlow" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
+<img alt="Keras" title="Keras" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"/>
+<img alt="OpenCV" title="OpenCV" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
 
 <br><br>
 
 ## **`Cloud e Plataformas`**
 
-<img 
-    align="left" 
-    alt="Azure"
-    title="Microsoft Azure" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
-/>
-<img 
-    align="left" 
-    alt="AWS"
-    title="AWS (Amazon Web Services)" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Google Cloud Run"
-    title="Google Cloud Run" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudrun/cloudrun-original.svg"
-/>
+<img alt="Azure" title="Microsoft Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+<img alt="AWS" title="AWS (Amazon Web Services)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img alt="Google Cloud Run" title="Google Cloud Run" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudrun/cloudrun-original.svg"/>
 
 <br><br>
 
 ## **`Bancos de Dados`**
 
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SQL Server"
-    title="Microsoft SQL Server" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MongoDB"
-    title="MongoDB" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Azure Cosmos DB"
-    title="Azure Cosmos DB" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original.svg"
-/>
-        
+<img alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img alt="SQL Server" title="Microsoft SQL Server" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+<img alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+<img alt="Azure Cosmos DB" title="Azure Cosmos DB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original.svg"/>
+
 <br><br>
 
 ## **`Dados, BI e Analytics`**
 
-<img 
-    align="left" 
-    alt="Power BI"
-    title="Power BI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-/>
-<img 
-    align="left" 
-    alt="Excel"
-    title="Microsoft Excel" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
-/>
-<img 
-    align="left" 
-    alt="ETL"
-    title="ETL (Extract, Transform, Load)" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Data Modeling"
-    title="Data Modeling" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PyTorch"
-    title="PyTorch (Deep Learning)" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
-/>
+<img alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+<img alt="Excel" title="Microsoft Excel" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+<img alt="ETL" title="ETL (Extract, Transform, Load)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg"/>
+<img alt="Data Modeling" title="Data Modeling" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
+<img alt="PyTorch" title="PyTorch (Deep Learning)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
 
 <br><br>
 
 ## **`Inteligência Artificial e GenAI`**
 
-<img 
-    align="left" 
-    alt="OpenAI API"
-    title="OpenAI API / Azure OpenAI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/openai/icon.svg"
-/>
-<img 
-    align="left" 
-    alt="MLflow"
-    title="MLflow" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://assets.streamlinehq.com/image/private/w_30,h_30,ar_1/f_auto/v1/icons/logos/mlflow-bqet15yz5pb6mw888yu69g.png/mlflow-d3ix9o1dr7bhztcxvtjz9a.png"
-/>
-<img 
-    align="left" 
-    alt="Google Gemini"
-    title="Google Gemini" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/gemini/icon.svg"
-/>
-<img 
-    align="left" 
-    alt="DeepSeek"
-    title="DeepSeek" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://logo-teka.com/wp-content/uploads/2025/07/deepseek-sign-logo.svg"
-/>
+<img alt="OpenAI API" title="OpenAI API / Azure OpenAI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/openai/icon.svg"/>
+<img alt="MLflow" title="MLflow" width="30px" style="padding-right: 10px;" src="https://assets.streamlinehq.com/image/private/w_30,h_30,ar_1/f_auto/v1/icons/logos/mlflow-bqet15yz5pb6mw888yu69g.png/mlflow-d3ix9o1dr7bhztcxvtjz9a.png"/>
+<img alt="Google Gemini" title="Google Gemini" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/gemini/icon.svg"/>
+<img alt="DeepSeek" title="DeepSeek" width="30px" style="padding-right: 10px;" src="https://logo-teka.com/wp-content/uploads/2025/07/deepseek-sign-logo.svg"/>
 
 <br><br>
 
 ## **`Testes e Qualidade`**
 
-<img 
-    align="left" 
-    alt="Jest"
-    title="Jest (TDD)" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Cucumber"
-    title="Cucumber (BDD)" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Postman"
-    title="Postman (Testes de API)" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Cypress"
-    title="Cypress" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Selenium"
-    title="Selenium" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JUnit"
-    title="JUnit" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Mockito"
-    title="Mockito" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png"
-/>
+<img alt="Jest" title="Jest (TDD)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+<img alt="Cucumber" title="Cucumber (BDD)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"/>
+<img alt="Postman" title="Postman (Testes de API)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+<img alt="Cypress" title="Cypress" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg"/>
+<img alt="Selenium" title="Selenium" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
+<img alt="JUnit" title="JUnit" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg"/>
+<img alt="Mockito" title="Mockito" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png"/>
 
 <br><br>
 
 ## **`DevOps e Infraestrutura`**
 
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Kubernetes"
-    title="Kubernetes" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Terraform"
-    title="Terraform" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Jenkins"
-    title="Jenkins" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-plain.svg"
-/>
+<img alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+<img alt="Kubernetes" title="Kubernetes" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg"/>
+<img alt="Terraform" title="Terraform" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-plain.svg"/>
+<img alt="Jenkins" title="Jenkins" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-plain.svg"/>
 
 <br><br>
 
 ## **`Ferramentas e Versionamento`**
 
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="GitHub"
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-<img 
-    align="left" 
-    alt="GitLab"
-    title="GitLab" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Maven"
-    title="Maven" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Gradle"
-    title="Gradle" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"
-/>
-<img 
-    align="left" 
-    alt="NPM"
-    title="NPM" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
-/>
+<img alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>
+<img alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<img alt="GitLab" title="GitLab" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg"/>
+<img alt="Maven" title="Maven" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-plain.svg"/>
+<img alt="Gradle" title="Gradle" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg"/>
+<img alt="NPM" title="NPM" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
 
 <br><br>
 
 ## **`Sistemas e Infra`**
 
-<img 
-    align="left" 
-    alt="Linux"
-    title="Linux" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="Windows"
-    title="Windows 11" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Redes TCP/IP"
-    title="Redes TCP/IP" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://static.thenounproject.com/png/4955570-200.png"
-/>
-<img 
-    align="left" 
-    alt="Segurança da Informação"
-    title="Segurança da Informação" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png"
-/>
-<img 
-    align="left" 
-    alt="Pentest"
-    title="Pentest" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn-icons-png.flaticon.com/512/2850/2850321.png"
-/>
+<img alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg"/>
+<img alt="Windows" title="Windows 11" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
+<img alt="Redes TCP/IP" title="Redes TCP/IP" width="30px" style="padding-right: 10px;" src="https://static.thenounproject.com/png/4955570-200.png"/>
+<img alt="Segurança da Informação" title="Segurança da Informação" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png"/>
+<img alt="Pentest" title="Pentest" width="30px" style="padding-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/2850/2850321.png"/>
 
 <br><br>
 
@@ -672,3 +202,5 @@ Comprometido com a excelência na entrega de resultados, acredito na tecnologia 
 ## 🎮 Snake Game
 
 <img src="https://raw.githubusercontent.com/Hyouem/Hyouem/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
