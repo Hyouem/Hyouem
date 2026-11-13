@@ -30,7 +30,8 @@ def repos():
 
 # Deliberate definition: active, original PUBLIC repos owned by the user;
 # exclude archive-only mirrors and the profile README repository.
-selected = [r for r in repos() if not r.get('fork') and not r.get('archived')
+all_repos = list(repos())
+selected = [r for r in all_repos if not r.get('fork') and not r.get('archived')
             and not r['name'].lower().startswith('arquivo-')
             and r['name'].lower() != USER.lower()]
 lang_bytes = defaultdict(int)
@@ -59,10 +60,10 @@ def svg(body,w=460,h=250):
 
 stars = sum(r.get('stargazers_count',0) for r in selected)
 body = txt(24,42,'GitHub • Projetos públicos',20,'#ff399c',700)
-body += txt(24,90,f'{len(selected)}',32,'#fff',700)+txt(88,90,'repositórios elegíveis',15)
-body += txt(24,139,str(stars),32,'#fff',700)+txt(88,139,'estrelas nesses repositórios',15)
+body += txt(24,90,f'{len(all_repos)}',32,'#fff',700)+txt(88,90,'repositórios públicos',15)
+body += txt(24,139,str(stars),32,'#fff',700)+txt(88,139,'estrelas nos elegíveis',15)
 body += txt(24,177,f'{len(ranked)} linguagens detectadas',14,'#73e4e4')
-body += txt(24,210,'Sem forks, arquivados, arquivo-* e README',12,'#b9adc6')
+body += txt(24,210,f'{len(selected)} elegíveis no gráfico de linguagens',12,'#b9adc6')
 body += txt(24,231,f'Atualizado: {updated}',11,'#b9adc6')
 (OUT/'overview.svg').write_text(svg(body),encoding='utf-8')
 
