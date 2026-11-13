@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="250" viewBox="0 0 460 250" role="img" aria-label="GitHub • Projetos públicos - aguardando atualização">
+  <rect x="1" y="1" width="458" height="248" rx="13" fill="#15131f" stroke="#3c354e"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="24" y="46" fill="#ff399c" font-size="20" font-weight="700">GitHub • Projetos públicos</text>
+    <text x="24" y="110" fill="#e2e8f0" font-size="17" font-weight="600">Aguardando primeira atualização</text>
+    <text x="24" y="151" fill="#c9c0d3" font-size="13">Métricas reais serão geradas pelo GitHub Actions.</text>
+    <text x="24" y="190" fill="#73e4e4" font-size="13">Actions → Atualizar estatisticas do perfil</text>
+    <text x="24" y="213" fill="#b9adc6" font-size="12">Execute o workflow manualmente uma vez.</text>
+  </g>
+</svg>
