@@ -16,9 +16,9 @@ Comprometido com a excelência na entrega de resultados, acredito na tecnologia 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-dun-three-99.vercel.app/api?username=Hyouem&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyouem&theme=radical"/>
 
-<img height="180em" src="https://github-readme-stats-dun-three-99.vercel.app/api/top-langs/?username=Hyouem&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyouem&theme=radical"/>
 
 </div>
 
@@ -64,7 +64,7 @@ Comprometido com a excelência na entrega de resultados, acredito na tecnologia 
 ## **`Cloud e Plataformas`**
 
 <img alt="Azure" title="Microsoft Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
-<img alt="AWS" title="AWS (Amazon Web Services)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img alt="AWS" title="AWS (Amazon Web Services)" width="30px" style="padding-right: 10px;" src="https://api.iconify.design/logos/aws.svg"/>
 <img alt="Google Cloud Run" title="Google Cloud Run" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudrun/cloudrun-original.svg"/>
 
 <br><br>
