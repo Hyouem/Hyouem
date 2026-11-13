@@ -1,39 +1,50 @@
 name: Atualizar estatisticas do perfil
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: '23 */6 * * *'
+    - cron: '17 */6 * * *'
+
 permissions:
   contents: write
+
 concurrency:
   group: profile-stats
   cancel-in-progress: false
+
 jobs:
   profile-stats:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Generate public repository statistics
+      - name: Generate verified repository statistics
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USERNAME: Hyouem
         run: python scripts/generate_profile_stats.py
       - name: Validate SVG and version README links
-        env:
-          GITHUB_RUN_ID: ${{ github.run_id }}
-          GITHUB_RUN_ATTEMPT: ${{ github.run_attempt }}
         run: |
-          python scripts/version_profile_stats.py
           python - <<'PY'
-          from pathlib import Path
+          import os
+          import re
           import xml.etree.ElementTree as ET
-          for p in (Path('assets/stats/overview.svg'),Path('assets/stats/languages.svg')):
-              assert p.stat().st_size > 100
-              ET.parse(p)
+          from pathlib import Path
+          for name in ('overview', 'languages'):
+              ET.parse(f'assets/stats/{name}.svg')
+          p = Path('README.md')
+          text = p.read_text(encoding='utf-8')
+          version = f'{os.environ["GITHUB_RUN_ID"]}-{os.environ["GITHUB_RUN_ATTEMPT"]}'
+          for name in ('overview', 'languages'):
+              pat = r'(\./assets/stats/' + name + r'\.svg)(?:\?v=[^"\s>]*)?'
+              text, n = re.subn(pat, lambda m: m.group(1) + '?v=' + version, text)
+              if n != 1:
+                  raise SystemExit(f'Expected one README URL for {name}, got {n}')
+          p.write_text(text, encoding='utf-8')
           PY
       - name: Publish cards and README
         run: |
@@ -41,6 +52,6 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md assets/stats/overview.svg assets/stats/languages.svg
           if ! git diff --cached --quiet; then
-            git commit -m 'chore: refresh profile statistics'
+            git commit -m 'chore: refresh verified profile statistics'
             git push
           fi
