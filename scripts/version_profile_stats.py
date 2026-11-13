@@ -15,7 +15,7 @@ for name in ("overview", "languages"):
     pattern = (
         r"(\./assets/stats/"
         + name
-        + r"\.svg)(?:\?v=[^"]*)?"
+        + r'\.svg)(?:\?v=[^"]*)?'
     )
 
     content, count = re.subn(
