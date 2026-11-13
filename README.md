@@ -16,10 +16,10 @@ Comprometido com a excelência na entrega de resultados, acredito na tecnologia 
 
 <div align="center">
 
-<img width="48%" alt="Estatísticas dos projetos públicos" src="./assets/stats/overview.svg?v=43476998836-1"/>
-<img width="48%" alt="Distribuição percentual de linguagens" src="./assets/stats/languages.svg?v=43476998836-1"/>
+<img width="48%" alt="Estatísticas dos projetos públicos" src="./assets/stats/overview.svg?v=43479350705-1"/>
+<img width="48%" alt="Distribuição percentual de linguagens" src="./assets/stats/languages.svg?v=43479350705-1"/>
 
-  <img width="97%" alt="Stack de desenvolvimento backend" src="./assets/stats/stack.svg?v=43476998836-1"/>
+  <img width="97%" alt="Stack de desenvolvimento backend" src="./assets/stats/stack.svg?v=43479350705-1"/>
 </div>
 
 ## **`Linguagens de Programação`**
