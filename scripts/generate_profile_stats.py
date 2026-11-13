@@ -196,8 +196,8 @@ def generate():
     denominator = sum(primary.values())
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / 'overview.svg').write_text(overview(len(repos), denominator, stars, len(all_languages)), encoding='utf-8')
-    (OUT / 'languages.svg').write_text(languages_card(primary, denominator), encoding='utf-8')
-    (OUT / 'stack.svg').write_text(stack_card(), encoding='utf-8')
+    (OUT / 'languages-ranking.svg').write_text(languages_card(primary, denominator), encoding='utf-8')
+    (OUT / 'stack-premium.svg').write_text(stack_card(), encoding='utf-8')
     print(f'VALIDATED: {len(repos)} public repos, {denominator} with language; primary distribution: {dict(primary)}')
 
 

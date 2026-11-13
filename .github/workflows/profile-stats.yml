@@ -40,7 +40,7 @@ jobs:
           import xml.etree.ElementTree as ET
           from pathlib import Path
 
-          names = ('overview', 'languages', 'stack')
+          names = ('overview', 'languages-ranking', 'stack-premium')
           for name in names:
               ET.parse(f'assets/stats/{name}.svg')
           p = Path('README.md')
@@ -58,7 +58,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md assets/stats/overview.svg assets/stats/languages.svg assets/stats/stack.svg
+          git add README.md assets/stats/overview.svg assets/stats/languages-ranking.svg assets/stats/stack-premium.svg
           if ! git diff --cached --quiet; then
             git commit -m 'chore: refresh profile cards'
             git push
