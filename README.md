@@ -18,7 +18,7 @@ Comprometido com a excelência na entrega de resultados, acredito na tecnologia 
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyouem&theme=radical"/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyouem&theme=radical"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hyouem&layout=compact&langs_count=8&theme=radical&stats_format=percentages&hide_progress=false"/>
 
 </div>
 
