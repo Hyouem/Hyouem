@@ -16,9 +16,8 @@ Comprometido com a excelência na entrega de resultados, acredito na tecnologia 
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hyouem&theme=radical"/>
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hyouem&layout=compact&langs_count=8&theme=radical&stats_format=percentages&hide_progress=false"/>
+<img width="460" alt="Estatísticas dos projetos públicos" src="./assets/stats/overview.svg"/>
+<img width="460" alt="Distribuição percentual de linguagens" src="./assets/stats/languages.svg"/>
 
 </div>
 
