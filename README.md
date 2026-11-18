@@ -3,8 +3,6 @@
   <img src="https://github.com/user-attachments/assets/869ec558-f02b-4785-855a-3ae242effe72" width="100%" alt="Maurício dos Santos - Desenvolvedor Backend" />
 </div>
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
   <img src="./assets/stats/overview.svg?v=44258710497-1" width="49%" alt="Estatísticas dos projetos" />
   <img src="./assets/stats/languages-ranking.svg?v=44258710497-1" width="49%" alt="Ranking das linguagens" />
