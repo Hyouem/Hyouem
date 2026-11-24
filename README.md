@@ -4,9 +4,9 @@
 </div>
 
 <div align="center">
-  <img src="./assets/stats/overview.svg?v=45369222834-1" width="49%" alt="Estatísticas dos projetos" />
-  <img src="./assets/stats/languages-ranking.svg?v=45369222834-1" width="49%" alt="Ranking das linguagens" />
-  <img src="./assets/stats/stack-premium.svg?v=45369222834-1" width="100%" alt="Stack de desenvolvimento backend" />
+  <img src="./assets/stats/overview.svg?v=45500661456-1" width="49%" alt="Estatísticas dos projetos" />
+  <img src="./assets/stats/languages-ranking.svg?v=45500661456-1" width="49%" alt="Ranking das linguagens" />
+  <img src="./assets/stats/stack-premium.svg?v=45500661456-1" width="100%" alt="Stack de desenvolvimento backend" />
 </div>
 
 <div align="center">
